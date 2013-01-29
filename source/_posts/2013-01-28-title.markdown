@@ -1,0 +1,8 @@
+---
+layout: post
+title: "title"
+date: 2013-01-28 23:04
+comments: true
+categories: 
+---
+This is a test… test test test.
